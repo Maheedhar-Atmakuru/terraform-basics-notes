@@ -4,3 +4,4 @@ output "sample"{
 output "demo" {
     value = "Terraform Is Used in provisioning terraform"
 }
+
