@@ -1,5 +1,7 @@
-variable "sample" {} //Declaring emplty variable
+variable "sample" {
+    default = "terraform"
+}
 
-output "sample_op" {
-    value = var.sample
+variable "batch" {
+    default = 57
 }

@@ -1,7 +1,7 @@
-output "sample"{
-    value = "Welcome to Terraform Maheedhar"
-}
-output "demo" {
-    value = "Terraform Is Used in provisioning terraform"
+output "sample" {
+  value = "Welcome To Terraform"
 }
 
+output "demo" {
+  value = "Terraform Is Used To Provision Infrastructure"
+}
